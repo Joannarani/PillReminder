@@ -1,0 +1,25 @@
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill Reminder.csprojAssemblyReference.cache
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill_Reminder.Reminder.resources
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Reminder_desktop_application.Properties.Resources.resources
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill_Reminder.TaskNotification.resources
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill Reminder.csproj.GenerateResource.cache
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill Reminder.csproj.CoreCompileInputs.cache
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Reminder desktop application.exe
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Reminder desktop application.pdb
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Reminder desktop application.exe.config
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Reminder desktop application.exe
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Reminder desktop application.pdb
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Common.Logging.Core.dll
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Common.Logging.dll
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\MetroFramework.Design.dll
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\MetroFramework.dll
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Quartz.dll
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Common.Logging.pdb
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Common.Logging.xml
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Common.Logging.Core.pdb
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Common.Logging.Core.xml
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Quartz.pdb
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\bin\Debug\Quartz.xml
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill_Reminder.NewTaskForm.resources
+C:\Users\joann\Documents\SMT 8\PBO\Pill Reminder\Pill Reminder\obj\Debug\Pill Reminder.csproj.CopyComplete
